@@ -1,5 +1,5 @@
 # TrinitySeal
-The official source code of TrinitySeal .NET Licensing System.
+The official source code of TrinitySeal .NET Licensing System. Some files didn't upload properly so I put them into .zip files. Just ignore the TrinitySeal folder inside of DLL.
 
 I started TrinitySeal back in March 2018 with little knowledge on how to code as a full-stack developer. Web development was completely new to me. I took inspiration from past services such as BetterSeal and SecureSeal.
 
